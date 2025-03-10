@@ -11,4 +11,5 @@
   <HideExamAnswer>True</HideExamAnswer>
   <IE_X_UA_Compatible>8</IE_X_UA_Compatible>
   <IgnoreEncryptedFiles>True</IgnoreEncryptedFiles>
+  <PreviewCompiledChmFileName>CodeforcesAPI.chm</PreviewCompiledChmFileName>
 </Root>
