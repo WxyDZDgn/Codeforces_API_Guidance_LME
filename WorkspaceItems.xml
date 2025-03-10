@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Item Title="CodeforcesAPI" Path="" StatuHeader="[-]" StatuTail="" IsExpanded="true" IsSelected="true" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00">
+  <Item Title="Introduction" Path="Introduction\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00">
+    <Item Title="Authorization" Path="Introduction\Authorization\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="JSONP" Path="Introduction\JSONP\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+  </Item>
+  <Item Title="Methods" Path="Methods\" StatuHeader="" StatuTail="" IsExpanded="true" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00">
+    <Item Title="blogEntry.comments" Path="Methods\blogEntry.comments\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="blogEntry.view" Path="Methods\blogEntry.view\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="contest.hacks" Path="Methods\contest.hacks\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="contest.list" Path="Methods\contest.list\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="contest.ratingChanges" Path="Methods\contest.ratingChanges\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="contest.standings" Path="Methods\contest.standings\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="contest.status" Path="Methods\contest.status\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="problemset.problems" Path="Methods\problemset.problems\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="problemset.recentStatus" Path="Methods\problemset.recentStatus\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="recentActions" Path="Methods\recentActions\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="user.blogEntries" Path="Methods\user.blogEntries\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="user.friends" Path="Methods\user.friends\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="user.info" Path="Methods\user.info\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="user.ratedList" Path="Methods\user.ratedList\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="user.rating" Path="Methods\user.rating\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="user.status" Path="Methods\user.status\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+  </Item>
+  <Item Title="Return Object" Path="Return-Object\" StatuHeader="" StatuTail="" IsExpanded="true" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00">
+    <Item Title="User" Path="Return-Object\User\" StatuHeader="" StatuTail="" IsExpanded="true" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="BlogEntry" Path="Return-Object\BlogEntry\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="Comment" Path="Return-Object\Comment\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="RecentAction" Path="Return-Object\RecentAction\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="RatingChange" Path="Return-Object\RatingChange\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="Contest" Path="Return-Object\Contest\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="Party" Path="Return-Object\Party\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="Member" Path="Return-Object\Member\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="Problem" Path="Return-Object\Problem\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="ProblemStatistics" Path="Return-Object\ProblemStatistics\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="Submission" Path="Return-Object\Submission\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="Hack" Path="Return-Object\Hack\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="RanklistRow" Path="Return-Object\RanklistRow\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+    <Item Title="ProblemResult" Path="Return-Object\ProblemResult\" StatuHeader="" StatuTail="" IsExpanded="false" IsChecked="false" Tooltip="" ItemType="Folder" IsHomePage="False" ChmImageIndex="00" />
+  </Item>
+</Item>
