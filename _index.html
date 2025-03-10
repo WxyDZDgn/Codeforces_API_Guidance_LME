@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- saved from url=(0016)http://localhost -->
+<head>
+<meta name="viewport" content="width=device-width, user-scalable= yes"/>
+<meta http-equiv="Content-Type" content="text/html;charset=GB18030">
+<meta http-equiv="X-UA-Compatible" content="IE=8"/>
+<title>CodeforcesAPI目录</title>
+<link id="theme_link" rel="stylesheet" href="./lesson_light.css" type="text/css">
+<link id="custom_theme_link" rel="stylesheet" href="./custom_lesson_light.css" type="text/css"></head>
+<body>
+<p class='fileheader' id='file_header'>CodeforcesAPI目录</p><hr />
+<p><a href="_CodeforcesAPI.html">&gt; CodeforcesAPI</a></p><p>　<a href="Introduction\_Introduction.html">&gt; Introduction</a></p>
+<p>　　<a href="Introduction\Authorization\_Authorization.html">&gt; Authorization</a></p>
+<p>　　<a href="Introduction\JSONP\_JSONP.html">&gt; JSONP</a></p>
+<p>　<a href="Methods\_Methods.html">&gt; Methods</a></p>
+<p>　　<a href="Methods\blogEntry.comments\_blogEntry.comments.html">&gt; blogEntry.comments</a></p>
+<p>　　<a href="Methods\blogEntry.view\_blogEntry.view.html">&gt; blogEntry.view</a></p>
+<p>　　<a href="Methods\contest.hacks\_contest.hacks.html">&gt; contest.hacks</a></p>
+<p>　　<a href="Methods\contest.list\_contest.list.html">&gt; contest.list</a></p>
+<p>　　<a href="Methods\contest.ratingChanges\_contest.ratingChanges.html">&gt; contest.ratingChanges</a></p>
+<p>　　<a href="Methods\contest.standings\_contest.standings.html">&gt; contest.standings</a></p>
+<p>　　<a href="Methods\contest.status\_contest.status.html">&gt; contest.status</a></p>
+<p>　　<a href="Methods\problemset.problems\_problemset.problems.html">&gt; problemset.problems</a></p>
+<p>　　<a href="Methods\problemset.recentStatus\_problemset.recentStatus.html">&gt; problemset.recentStatus</a></p>
+<p>　　<a href="Methods\recentActions\_recentActions.html">&gt; recentActions</a></p>
+<p>　　<a href="Methods\user.blogEntries\_user.blogEntries.html">&gt; user.blogEntries</a></p>
+<p>　　<a href="Methods\user.friends\_user.friends.html">&gt; user.friends</a></p>
+<p>　　<a href="Methods\user.info\_user.info.html">&gt; user.info</a></p>
+<p>　　<a href="Methods\user.ratedList\_user.ratedList.html">&gt; user.ratedList</a></p>
+<p>　　<a href="Methods\user.rating\_user.rating.html">&gt; user.rating</a></p>
+<p>　　<a href="Methods\user.status\_user.status.html">&gt; user.status</a></p>
+<p>　<a href="Return-Object\_Return-Object.html">&gt; Return Object</a></p>
+<p>　　<a href="Return-Object\User\_User.html">&gt; User</a></p>
+<p>　　<a href="Return-Object\BlogEntry\_BlogEntry.html">&gt; BlogEntry</a></p>
+<p>　　<a href="Return-Object\Comment\_Comment.html">&gt; Comment</a></p>
+<p>　　<a href="Return-Object\RecentAction\_RecentAction.html">&gt; RecentAction</a></p>
+<p>　　<a href="Return-Object\RatingChange\_RatingChange.html">&gt; RatingChange</a></p>
+<p>　　<a href="Return-Object\Contest\_Contest.html">&gt; Contest</a></p>
+<p>　　<a href="Return-Object\Party\_Party.html">&gt; Party</a></p>
+<p>　　<a href="Return-Object\Member\_Member.html">&gt; Member</a></p>
+<p>　　<a href="Return-Object\Problem\_Problem.html">&gt; Problem</a></p>
+<p>　　<a href="Return-Object\ProblemStatistics\_ProblemStatistics.html">&gt; ProblemStatistics</a></p>
+<p>　　<a href="Return-Object\Submission\_Submission.html">&gt; Submission</a></p>
+<p>　　<a href="Return-Object\Hack\_Hack.html">&gt; Hack</a></p>
+<p>　　<a href="Return-Object\RanklistRow\_RanklistRow.html">&gt; RanklistRow</a></p>
+<p>　　<a href="Return-Object\ProblemResult\_ProblemResult.html">&gt; ProblemResult</a></p>
+<hr /><div class='foot'><p id='compile_time'>2025/3/10 19:35:30</p></div><br/><br/><script>
+function SwitchTheme()
+{
+    var css = document.getElementById('theme_link');
+    var custom_css = document.getElementById('custom_theme_link');
+    var url;
+    var custom_url;
+    var theme = 'light';
+	if (/.*_dark.css$/.test(css.getAttribute('href'))) theme = 'dark';
+    if (theme == 'light')
+    {
+        url = './lesson_dark.css';
+        custom_url = './custom_lesson_dark.css';
+        window.name = 'dark';
+    }
+    else
+    {
+        url = './lesson_light.css';
+        custom_url = './custom_lesson_light.css';
+        window.name = 'light';
+    }
+    if (css) css.setAttribute('href', url);
+    if (custom_css) custom_css.setAttribute('href', custom_url);
+}
+
+function LoadTheme(new_theme)
+{
+    var css = document.getElementById('theme_link');
+    var custom_css = document.getElementById('custom_theme_link');
+    var url;
+    var custom_url;
+    var theme = 'light';
+	if (/.*_dark.css$/.test(css.getAttribute('href'))) theme = 'dark';
+    if (new_theme && new_theme != theme)
+    {
+        if (new_theme == 'dark')
+        {
+            url = './lesson_dark.css';
+            custom_url = './custom_lesson_dark.css';
+        }
+        else
+        {
+            url = './lesson_light.css';
+            custom_url = './custom_lesson_light.css';
+        }
+        if (css) css.setAttribute('href', url);
+        if (custom_css) custom_css.setAttribute('href', custom_url);
+    }
+}
+
+function LoadUserSelectedTheme()
+{
+    if(window.name == 'dark' || window.name == 'light')
+    {
+        LoadTheme(window.name);
+    }
+}
+</script><div><img id="theme_switcher" src="images~/theme_switcher.png" onclick="SwitchTheme()"/></div><br/><br/><script src="jquery-1.7.0.min.js"></script><script>$(document).ready(LoadUserSelectedTheme());</script></body>
+</html>

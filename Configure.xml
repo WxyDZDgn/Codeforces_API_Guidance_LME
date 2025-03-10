@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <Encoding>gb18030</Encoding>
+  <color>light</color>
+  <FormatAfterCompile>False</FormatAfterCompile>
+  <HtmlHeadersCollapse>Manual</HtmlHeadersCollapse>
+  <AutoNumberHeaders>True</AutoNumberHeaders>
+  <AutoNumberStyle>en_us</AutoNumberStyle>
+  <CompileCodeToFillBlank>False</CompileCodeToFillBlank>
+  <CompilePageMenu>False</CompilePageMenu>
+  <HideExamAnswer>True</HideExamAnswer>
+  <IE_X_UA_Compatible>8</IE_X_UA_Compatible>
+  <IgnoreEncryptedFiles>True</IgnoreEncryptedFiles>
+</Root>
